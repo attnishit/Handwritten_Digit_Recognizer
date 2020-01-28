@@ -13,7 +13,7 @@
   <li>Run python3 training.py or load the pretrained model i.e model.h5</li>
   <li>Test the model on test data by python3 testing.py</li>
   <li>If you want to visualize what neural layers are learning run displaying_neural_network_content.py(works best in jupyter notebook)</li>
-  <li>Finally if you want to test your own image,load the image in images folder and change the image name in test_your_image.py and run it</li>
+  <li>Finally if you want to test your own image,load the image in images folder and change the test_images name in test_your_image.py and run it</li>
 </ol>
 <br>
 <h2>Enjoy!</h2>
